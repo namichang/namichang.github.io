@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!style¶}©l===========================================>
+<style>
+h{color: mediumpurple;
+ margin: 50px:
+ width:auto;
+ padding:80px;
+ border:60px;
+ font-size:50px;} 
+ 
+
+  
+
+    ul{ list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: pink}
+    
+    li{float: left;}
+    
+    li a,.Cake2{ 
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration:underline;}
+   
+    
+    
+     li a:hover, .Cake1:hover .Cake2 {
+         background-color:cornsilk;}
+  
+    
+  
+    
+    li.Cake1 
+    {display: inline-block;}
+    
+    
+   
+  
+    
+    .Cake3-content 
+    { 
+      display: none;
+    position: absolute;
+    background-color: cornsilk;
+    min-width: 160px;}
+    
+    .Cake3-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+ 
+    
+  .Cake3-content  a:hover {background-color: white}
+
+        .Cake1:hover .Cake3-content {
+            display: block;
+        }
+    
+    /*.Cake-content a:hover {background-color: rebeccapurple}*/
+    
+     
+    </style>
+
+
+
+<!styleµ²§ô===========================================>
+
+    <meta charset="UTF-8">
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<h> *Iris cafe* </h>
+</body>
+
+
+<ul>
+     <li><a href="#coffee">coffee</a></li>
+     <li><a href="#juice">Juice</a></li>
+     <li class="Cake1">
+        <a href="#" class="Cake2">Cake</a>
+        <div class="Cake3-content">
+          <a href="#">¥¬®Ô¥§</a>
+          <a href="#">­»¾í³J¿|</a>
+          <a href="#">ªìÅÊÂfÂc¶ð</a>
+        </div>
+      </li>
+</ul>
+
+
+
+    
+</html>
